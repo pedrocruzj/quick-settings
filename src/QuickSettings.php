@@ -1,10 +1,10 @@
 <?php
 
-namespace Petros\QuickSettings;
+namespace Pedrocruzj\QuickSettings;
 
 use Illuminate\Support\Facades\Cache;
 use Illuminate\Support\Facades\DB;
-use Petros\QuickSettings\ValueParser;
+use Pedrocruzj\QuickSettings\ValueParser;
 
 class QuickSettings
 {

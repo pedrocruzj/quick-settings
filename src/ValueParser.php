@@ -1,6 +1,6 @@
 <?php
 
-namespace Petros\QuickSettings;
+namespace Pedrocruzj\QuickSettings;
 
 class ValueParser
 {

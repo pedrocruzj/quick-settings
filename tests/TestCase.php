@@ -9,7 +9,7 @@ class TestCase extends Orchestra
     protected function getPackageProviders($app)
     {
         return [
-            \Petros\QuickSettings\QuickSettingsServiceProvider::class,
+            \Pedrocruzj\QuickSettings\QuickSettingsServiceProvider::class,
         ];
     }
 

@@ -1,9 +1,9 @@
 <?php
 
-namespace Petros\QuickSettings;
+namespace Pedrocruzj\QuickSettings;
 
 use Illuminate\Support\ServiceProvider;
-use Petros\QuickSettings\QuickSettings;
+use Pedrocruzj\QuickSettings\QuickSettings;
 
 class QuickSettingsServiceProvider extends ServiceProvider
 {

@@ -1,9 +1,9 @@
 {
-    "name": "petros/quick-settings",
+    "name": "pedrocruzj/quick-settings",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Petros\\QuickSettings\\": "src/",
+            "Pedrocruzj\\QuickSettings\\": "src/",
             "Tests\\": "tests/"
         }
     },
@@ -30,7 +30,7 @@
     "extra": {
         "laravel": {
           "providers": [
-            "Petros\\QuickSettings\\QuickSettingsServiceProvider"
+            "Pedrocruzj\\QuickSettings\\QuickSettingsServiceProvider"
           ]
         }
     }

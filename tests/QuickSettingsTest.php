@@ -1,6 +1,6 @@
 <?php
 
-use Petros\QuickSettings\QuickSettings;
+use Pedrocruzj\QuickSettings\QuickSettings;
 use Tests\TestCase;
 
 uses(TestCase::class);

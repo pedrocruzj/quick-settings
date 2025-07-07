@@ -4,14 +4,14 @@ Quick Settings is a lib to help you quickly retrieve data stored in a key-value 
 
 ### Installation
 
--   Install package
--   Run php artisan vendor:publish --tag=quick-settings-migrations
--   Run php artisan migrate
+- Install package
+- Run php artisan vendor:publish --tag=quick-settings-migrations
+- Run php artisan migrate
 
 ### Usage
 
 ```
-use Petros\QuickSettings\QuickSettings;
+use Pedrocruzj\QuickSettings\QuickSettings;
 
 $settings = new QuickSettings();
 
